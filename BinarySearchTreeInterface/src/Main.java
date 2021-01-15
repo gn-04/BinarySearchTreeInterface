@@ -100,7 +100,7 @@ public class Main {
                                 System.out.println("Enter the player's team name");
                                 teamName = keyboard.next();
                                 System.out.println();
-                                System.out.println("Enter the player's last name");
+                                System.out.println("Enter the player's last name (Must be atleast 3 characters long");
                                 String playerName = keyboard.next();
                                 System.out.println();
                                 System.out.println("Enter the players salary");
